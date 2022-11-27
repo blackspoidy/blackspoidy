@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackspoidy&show_icons=true&locale=en&layout=compact" alt="blackspoidy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackspoidy&show_icons=true&locale=en" alt="blackspoidy" /></p>
+<p>&nbsp;<img style="margin-bottom=4px" align="center" src="https://github-readme-stats.vercel.app/api?username=blackspoidy&show_icons=true&locale=en" alt="blackspoidy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackspoidy&" alt="blackspoidy" /></p>
 
